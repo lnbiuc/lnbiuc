@@ -1,6 +1,6 @@
-### Hi! 👋
+![](https://pixel-profile.vercel.app/api/github-stats?username=lnbiuc&screen_effect=true&background=linear-gradient(to%20bottom%20right%2C%20%232aeeff%2C%20%235580eb))
 
-I'm Violet
+## Hi! 👋
 
 ## whoami
 Hello! I'm Violet. I'm a recent graduate in computer science. A Java programmer based in Xi'an. I have a passion for exploring everything interesting, ranging from peculiar gadgets like charger,NAS and routers. Additionally, I find great joy in delving into the world of frontend development. Currently residing and working in Xi'an, I document my professional and learning journey through work and study notes, which you can find on this website. Feel free to reach out and connect!
@@ -21,4 +21,7 @@ Ops: Docker、Centos、Ubuntu
 [Twitter](https://twitter.com/ZZSLL_53387)
 [Bilibili](https://space.bilibili.com/1258497845)
 
-https://pixel-profile.vercel.app/api/github-stats?username=lnbiuc&screen_effect=true&background=linear-gradient(to%20bottom%20right%2C%20%232aeeff%2C%20%235580eb)
+
+![](https://github-readme-stats.vercel.app/api?username=lnbiuc&show_icons=true&count_private=true&theme=onedark)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lnbiuc&hide=html,css&layout=compact)
