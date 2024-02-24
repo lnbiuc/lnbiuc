@@ -20,3 +20,5 @@ Ops: Docker、Centos、Ubuntu
 [Mail](mailto:hi@lnbiuc.com)
 [Twitter](https://twitter.com/ZZSLL_53387)
 [Bilibili](https://space.bilibili.com/1258497845)
+
+https://pixel-profile.vercel.app/api/github-stats?username=lnbiuc&screen_effect=true&background=linear-gradient(to%20bottom%20right%2C%20%232aeeff%2C%20%235580eb)
