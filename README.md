@@ -22,6 +22,4 @@ Ops: Docker、Centos、Ubuntu
 [Bilibili](https://space.bilibili.com/1258497845)
 
 
-![](https://github-readme-stats.vercel.app/api?username=lnbiuc&show_icons=true&count_private=true&theme=onedark)
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lnbiuc&hide=html,css&layout=compact)
