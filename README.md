@@ -35,7 +35,3 @@
 <a target="_blank" href="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="42" height="42" /></a></p>
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://twitter.com/ZZSLL_53387" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Violet&show_icons=true&locale=en" alt="Violet" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Violet&" alt="Violet" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Violet&show_icons=true&locale=en&layout=compact" alt="Violet" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Violet" alt="Violet" /></a></p>
